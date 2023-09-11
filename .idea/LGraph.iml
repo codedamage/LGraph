@@ -118,6 +118,34 @@
       <excludeFolder url="file://$MODULE_DIR$/graphql-app/vendor/filp/whoops" />
       <excludeFolder url="file://$MODULE_DIR$/graphql-app/vendor/voku/portable-ascii" />
       <excludeFolder url="file://$MODULE_DIR$/graphql-app/vendor/brick/math" />
+      <excludeFolder url="file://$MODULE_DIR$/graphql-app/vendor/thecodingmachine/safe" />
+      <excludeFolder url="file://$MODULE_DIR$/graphql-app/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/graphql-app/vendor/nuwave/lighthouse" />
+      <excludeFolder url="file://$MODULE_DIR$/graphql-app/vendor/mll-lab/laravel-graphiql" />
+      <excludeFolder url="file://$MODULE_DIR$/graphql-app/vendor/laragraph/utils" />
+      <excludeFolder url="file://$MODULE_DIR$/graphql-app/vendor/webonyx/graphql-php" />
+      <excludeFolder url="file://$MODULE_DIR$/graphql-app/vendor/haydenpierce/class-finder" />
+      <excludeFolder url="file://$MODULE_DIR$/graphql-app/storage/framework/cache/data/00" />
+      <excludeFolder url="file://$MODULE_DIR$/graphql-app/storage/framework/cache/data/3b" />
+      <excludeFolder url="file://$MODULE_DIR$/graphql-app/storage/framework/cache/data/3f" />
+      <excludeFolder url="file://$MODULE_DIR$/graphql-app/storage/framework/cache/data/4b" />
+      <excludeFolder url="file://$MODULE_DIR$/graphql-app/storage/framework/cache/data/4e" />
+      <excludeFolder url="file://$MODULE_DIR$/graphql-app/storage/framework/cache/data/5c" />
+      <excludeFolder url="file://$MODULE_DIR$/graphql-app/storage/framework/cache/data/7d" />
+      <excludeFolder url="file://$MODULE_DIR$/graphql-app/storage/framework/cache/data/9c" />
+      <excludeFolder url="file://$MODULE_DIR$/graphql-app/storage/framework/cache/data/47" />
+      <excludeFolder url="file://$MODULE_DIR$/graphql-app/storage/framework/cache/data/52" />
+      <excludeFolder url="file://$MODULE_DIR$/graphql-app/storage/framework/cache/data/61" />
+      <excludeFolder url="file://$MODULE_DIR$/graphql-app/storage/framework/cache/data/66" />
+      <excludeFolder url="file://$MODULE_DIR$/graphql-app/storage/framework/cache/data/73" />
+      <excludeFolder url="file://$MODULE_DIR$/graphql-app/storage/framework/cache/data/85" />
+      <excludeFolder url="file://$MODULE_DIR$/graphql-app/storage/framework/cache/data/92" />
+      <excludeFolder url="file://$MODULE_DIR$/graphql-app/storage/framework/cache/data/a8" />
+      <excludeFolder url="file://$MODULE_DIR$/graphql-app/storage/framework/cache/data/c3" />
+      <excludeFolder url="file://$MODULE_DIR$/graphql-app/storage/framework/cache/data/dc" />
+      <excludeFolder url="file://$MODULE_DIR$/graphql-app/storage/framework/cache/data/ef" />
+      <excludeFolder url="file://$MODULE_DIR$/graphql-app/storage/framework/cache/data/f6" />
+      <excludeFolder url="file://$MODULE_DIR$/graphql-app/vendor" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

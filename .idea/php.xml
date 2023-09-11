@@ -122,6 +122,13 @@
       <path value="$PROJECT_DIR$/graphql-app/vendor/filp/whoops" />
       <path value="$PROJECT_DIR$/graphql-app/vendor/voku/portable-ascii" />
       <path value="$PROJECT_DIR$/graphql-app/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/graphql-app/vendor/thecodingmachine/safe" />
+      <path value="$PROJECT_DIR$/graphql-app/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/graphql-app/vendor/nuwave/lighthouse" />
+      <path value="$PROJECT_DIR$/graphql-app/vendor/mll-lab/laravel-graphiql" />
+      <path value="$PROJECT_DIR$/graphql-app/vendor/laragraph/utils" />
+      <path value="$PROJECT_DIR$/graphql-app/vendor/webonyx/graphql-php" />
+      <path value="$PROJECT_DIR$/graphql-app/vendor/haydenpierce/class-finder" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.1" />
